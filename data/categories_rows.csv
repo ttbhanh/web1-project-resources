@@ -1,0 +1,8 @@
+id,created_at,name,type,order
+18,2026-02-22 11:25:38.799863+00,Healthy Drinks,gallery,1
+19,2026-02-22 11:25:38.799863+00,Dessert Flavors,gallery,2
+20,2026-02-22 11:25:38.799863+00,CupCake Creations,gallery,3
+31,2026-02-22 11:25:38.799863+00,Specialty Coffee Blends,blogs,4
+32,2026-02-22 11:25:38.799863+00,Healthy Drinks,blogs,5
+33,2026-02-22 11:25:38.799863+00,Gourmet CupCake Creations,blogs,6
+34,2026-02-22 11:25:38.799863+00,Classic Dessert Flavors,blogs,7
