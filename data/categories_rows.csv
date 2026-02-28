@@ -1,4 +1,9 @@
 id,created_at,name,type,order
+1,2026-02-22 11:25:38.799863+00,Products,products,1
+2,2026-02-22 11:25:38.799863+00,About us,aboutus,1
+3,2026-02-22 11:25:38.799863+00,News,news,1
+4,2026-02-22 11:25:38.799863+00,Our Visions,visions,1
+5,2026-02-22 11:25:38.799863+00,Our Team,team,1
 18,2026-02-22 11:25:38.799863+00,Healthy Drinks,gallery,1
 19,2026-02-22 11:25:38.799863+00,Dessert Flavors,gallery,2
 20,2026-02-22 11:25:38.799863+00,CupCake Creations,gallery,3
