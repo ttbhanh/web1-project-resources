@@ -3,6 +3,10 @@ const RECAPTCHA_API_KEY = "your recaptcha api key";
 const RECAPTCHA_URL = `your recaptcha verification url`;
 const RECAPTCHA_ACTION = "submit";
 
+function showRecaptchaError() {
+  showToast("error", "Error: Can not verify Recaptcha!");
+}
+
 async function verifyRecaptcha(action = RECAPTCHA_ACTION) {
   const token = await new Promise((resolve, reject) => {
     try {
